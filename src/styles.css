@@ -18,3 +18,10 @@ body {
    */
   background-image: url('./images/bg-pattern.png');
 }
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
